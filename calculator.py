@@ -10,3 +10,6 @@ def multiply(a, b):
 
 def devide_premium(a, b):
     return a / b
+
+def print_hello():
+    print("hello")
